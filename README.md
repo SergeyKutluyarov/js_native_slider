@@ -1,1 +1,1 @@
-Задание 9
+Use script.js -> Slider
